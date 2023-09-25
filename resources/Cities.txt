@@ -1,0 +1,33 @@
+New York,295,230,Dallas,London,Dakar,Seattle
+Los Angeles,175,235,Seattle,Dallas,Mexico City
+Mexico City,220,310,Dallas,Los Angeles,Bogota
+Rio,400,500,Buenos Aires,Bogota,Johannesburg
+Buenos Aires,370,550,Santiago,Rio
+Seattle,160,185,New York,Los Angeles,Anchorage
+Anchorage,80,120,Seattle
+Dallas,230,250,Mexico City,New York,Los Angeles
+Bogota,315,390,Mexico City,Rio,Dakar
+Santiago,315,550,Buenos Aires
+London,520,150,Oslo,Paris,New York
+Madrid,515,220,Istanbul,Paris,Cairo,Dakar
+Johannesburg,610,530,Nairobi,Rio
+Nairobi,640,420,Cairo,Dakar,Johannesburg
+Cairo,620,265,Amman,Istanbul,Dubai,Nairobi,Dakar,Madrid
+Dakar,480,300,Bogota,Madrid,Cairo,Nairobi
+Amman,640,250,Cairo,Istanbul,Dubai
+Oslo,560,120,Moscow,London
+Moscow,620,145,Oslo,Istanbul
+Paris,530,175,London,Madrid
+Istanbul,610,220,Moscow,Amman,Cairo,Madrid
+Dubai,690,290,Amman,Cairo,New Delhi,Mumbai
+Mumbai,740,310,Dubai,New Delhi,Bangkok
+New Delhi,755,280,Dubai,Mumbai,Bangkok,Hongkong
+Bangkok,815,325,New Delhi,Mumbai,Hongkong,Singapore
+Hongkong,860,300,New Delhi,Bangkok,Shanghai,Tokyo
+Tokyo,940,240,Beijing,Hongkong,Shanghai
+Beijing,865,220,Shanghai,Tokyo
+Shanghai,885,245,Tokyo,Hongkong,Beijing
+Singapore,840,410,Bangkok,Bali
+Bali,870,440,Singapore,Sydney
+Sydney,975,560,Wellington,Bali
+Wellington,1045,585,Sydney
